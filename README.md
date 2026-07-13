@@ -18,20 +18,26 @@ My name is Florensia Gaciela Nainggolan, a Software Engineering student at Tarun
 <tr>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/css3/1572B6" width="26" height="26"/> &nbsp;<b>CSS3</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/html5/E34F26" width="26" height="26"/> &nbsp;<b>HTML5</b></td>
+<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="26" height="26"/> &nbsp;<b>Java</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/express/000000" width="26" height="26"/> &nbsp;<b>Express.js</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/react/61DAFB" width="26" height="26"/> &nbsp;<b>React Native</b></td>
 </tr>
 <tr>
+<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/react/61DAFB" width="26" height="26"/> &nbsp;<b>React Native</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/react/61DAFB" width="26" height="26"/> &nbsp;<b>React</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="26" height="26"/> &nbsp;<b>React Router</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="26" height="26"/> &nbsp;<b>React Query</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="26" height="26"/> &nbsp;<b>Next.js</b></td>
 </tr>
 <tr>
+<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="26" height="26"/> &nbsp;<b>Next.js</b></td>
+<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/vercel/000000" width="26" height="26"/> &nbsp;<b>Vercel</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/expo/1C1E24" width="26" height="26"/> &nbsp;<b>Expo</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="26" height="26"/> &nbsp;<b>JWT</b></td>
+</tr>
+<tr>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/npm/CB3837" width="26" height="26"/> &nbsp;<b>NPM</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/nodemon/76D04B" width="26" height="26"/> &nbsp;<b>Nodemon</b></td>
+<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/nginx/009639" width="26" height="26"/> &nbsp;<b>Nginx</b></td>
+<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/cratedb/009DC7" width="26" height="26"/> &nbsp;<b>CrateDB</b></td>
 </tr>
 <tr>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="26" height="26"/> &nbsp;<b>MySQL</b></td>
@@ -41,24 +47,28 @@ My name is Florensia Gaciela Nainggolan, a Software Engineering student at Tarun
 </tr>
 <tr>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/firebase/DD2C00" width="26" height="26"/> &nbsp;<b>Firebase</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/nginx/009639" width="26" height="26"/> &nbsp;<b>Nginx</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/docker/2496ED" width="26" height="26"/> &nbsp;<b>Docker</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/eslint/4B32C3" width="26" height="26"/> &nbsp;<b>ESLint</b></td>
+<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="26" height="26"/> &nbsp;<b>Postman</b></td>
 </tr>
 <tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="26" height="26"/> &nbsp;<b>Postman</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/git/F05032" width="26" height="26"/> &nbsp;<b>Git</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/github/181717" width="26" height="26"/> &nbsp;<b>GitHub</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/trello/0052CC" width="26" height="26"/> &nbsp;<b>Trello</b></td>
+<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139" width="26" height="26"/> &nbsp;<b>Portfolio</b></td>
 </tr>
 <tr>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="26" height="26"/> &nbsp;<b>Figma</b></td>
+<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/adobe/FF0000" width="26" height="26"/> &nbsp;<b>Adobe</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="26" height="26"/> &nbsp;<b>Adobe Illustrator</b></td>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="26" height="26"/> &nbsp;<b>Canva</b></td>
+</tr>
+<tr>
 <td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="26" height="26"/> &nbsp;<b>Dribbble</b></td>
 </tr>
 </table>
 </div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=florensia14&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=florensia14&theme=gruvbox&hide_border=true)<br/>
