@@ -1,80 +1,128 @@
-# 💫 About Me:
-My name is Florensia Gaciela Nainggolan, a Software Engineering student at Taruna Bhakti Vocational School, Depok, specializing in web and mobile development. Passionate about front-end development and building user-friendly applications using JavaScript, Node.js, Express.js, Tailwind CSS, React Native, and MySQL. Committed to continuous learning and quickly adopting new technologies to improve code quality and user experience.
+# 💫 About Me
 
+Hi there! 👋 I'm **Florensia Gaciela Nainggolan**, a Software Engineering student at **SMK Taruna Bhakti, Depok**.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onlyyceciliaa_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:florensianainggolan1449@gmail.com) 
+💻 Passionate about building modern, responsive, and user-friendly web & mobile applications.
 
-# 💻 Tech Stack:
+🚀 Currently focusing on Front-End Development while continuously improving my Back-End skills through real-world projects.
 
-<div align="center">
-<table style="border:none; background-color:#F7BFE0; border-collapse:separate; border-spacing:10px;">
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="26" height="26"/> &nbsp;<b>JavaScript</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/typescript/007ACC" width="26" height="26"/> &nbsp;<b>TypeScript</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="26" height="26"/> &nbsp;<b>Tailwind CSS</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/nodedotjs/6DA55F" width="26" height="26"/> &nbsp;<b>Node.js</b></td>
-</tr>
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/css3/1572B6" width="26" height="26"/> &nbsp;<b>CSS3</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/html5/E34F26" width="26" height="26"/> &nbsp;<b>HTML5</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="26" height="26"/> &nbsp;<b>Java</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/express/000000" width="26" height="26"/> &nbsp;<b>Express.js</b></td>
-</tr>
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/react/61DAFB" width="26" height="26"/> &nbsp;<b>React Native</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/react/61DAFB" width="26" height="26"/> &nbsp;<b>React</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="26" height="26"/> &nbsp;<b>React Router</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/reactquery/FF4154" width="26" height="26"/> &nbsp;<b>React Query</b></td>
-</tr>
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="26" height="26"/> &nbsp;<b>Next.js</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/vercel/000000" width="26" height="26"/> &nbsp;<b>Vercel</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/expo/1C1E24" width="26" height="26"/> &nbsp;<b>Expo</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="26" height="26"/> &nbsp;<b>JWT</b></td>
-</tr>
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/npm/CB3837" width="26" height="26"/> &nbsp;<b>NPM</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/nodemon/76D04B" width="26" height="26"/> &nbsp;<b>Nodemon</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/nginx/009639" width="26" height="26"/> &nbsp;<b>Nginx</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/cratedb/009DC7" width="26" height="26"/> &nbsp;<b>CrateDB</b></td>
-</tr>
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="26" height="26"/> &nbsp;<b>MySQL</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="26" height="26"/> &nbsp;<b>MongoDB</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/sqlite/07405E" width="26" height="26"/> &nbsp;<b>SQLite</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="26" height="26"/> &nbsp;<b>Supabase</b></td>
-</tr>
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/firebase/DD2C00" width="26" height="26"/> &nbsp;<b>Firebase</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/docker/2496ED" width="26" height="26"/> &nbsp;<b>Docker</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/eslint/4B32C3" width="26" height="26"/> &nbsp;<b>ESLint</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/postman/FF6C37" width="26" height="26"/> &nbsp;<b>Postman</b></td>
-</tr>
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/git/F05032" width="26" height="26"/> &nbsp;<b>Git</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/github/181717" width="26" height="26"/> &nbsp;<b>GitHub</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/trello/0052CC" width="26" height="26"/> &nbsp;<b>Trello</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/firefoxbrowser/FF7139" width="26" height="26"/> &nbsp;<b>Portfolio</b></td>
-</tr>
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/figma/F24E1E" width="26" height="26"/> &nbsp;<b>Figma</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/adobe/FF0000" width="26" height="26"/> &nbsp;<b>Adobe</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="26" height="26"/> &nbsp;<b>Adobe Illustrator</b></td>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/canva/00C4CC" width="26" height="26"/> &nbsp;<b>Canva</b></td>
-</tr>
-<tr>
-<td align="center" style="background-color:#FBF0DA; border-radius:14px; padding:14px 22px;"><img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="26" height="26"/> &nbsp;<b>Dribbble</b></td>
-</tr>
-</table>
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=florensia14&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=florensia14&theme=gruvbox&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=florensia14&theme=gruvbox&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+🌱 I enjoy learning new technologies and transforming ideas into meaningful digital experiences.
 
 ---
-[![](https://komarev.com/ghpvc/?username=florensia14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://instagram.com/onlyyceciliaa_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:florensianainggolan1449@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 🎨 Front-End
+
+<p>
+
+<img src="https://img.shields.io/badge/JavaScript-FBF0DA?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+
+<img src="https://img.shields.io/badge/TypeScript-FBF0DA?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+
+<img src="https://img.shields.io/badge/HTML5-FBF0DA?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+
+<img src="https://img.shields.io/badge/CSS3-FBF0DA?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+
+<img src="https://img.shields.io/badge/Tailwind_CSS-FBF0DA?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC"/>
+
+<img src="https://img.shields.io/badge/Next.js-FBF0DA?style=for-the-badge&logo=nextdotjs&logoColor=000000"/>
+
+<img src="https://img.shields.io/badge/React-FBF0DA?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/React_Native-FBF0DA?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+</p>
+
+---
+
+## ⚙️ Back-End
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-FBF0DA?style=for-the-badge&logo=node.js&logoColor=339933"/>
+
+<img src="https://img.shields.io/badge/Express.js-FBF0DA?style=for-the-badge&logo=express&logoColor=000000"/>
+
+<img src="https://img.shields.io/badge/JWT-FBF0DA?style=for-the-badge&logo=jsonwebtokens&logoColor=000000"/>
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-FBF0DA?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-FBF0DA?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+
+<img src="https://img.shields.io/badge/SQLite-FBF0DA?style=for-the-badge&logo=sqlite&logoColor=003B57"/>
+
+<img src="https://img.shields.io/badge/Supabase-FBF0DA?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+
+<img src="https://img.shields.io/badge/Firebase-FBF0DA?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-FBF0DA?style=for-the-badge&logo=git&logoColor=F05032"/>
+
+<img src="https://img.shields.io/badge/GitHub-FBF0DA?style=for-the-badge&logo=github&logoColor=181717"/>
+
+<img src="https://img.shields.io/badge/VS_Code-FBF0DA?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+
+<img src="https://img.shields.io/badge/Postman-FBF0DA?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+
+<img src="https://img.shields.io/badge/Docker-FBF0DA?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+
+<img src="https://img.shields.io/badge/Vercel-FBF0DA?style=for-the-badge&logo=vercel&logoColor=000000"/>
+
+<img src="https://img.shields.io/badge/NPM-FBF0DA?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+
+</p>
+
+---
+
+## 🎨 Design
+
+<p>
+
+<img src="https://img.shields.io/badge/Figma-FBF0DA?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+
+<img src="https://img.shields.io/badge/Canva-FBF0DA?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FBF0DA?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00"/>
+
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- TypeScript
+- Next.js
+- React Native
+- REST API Development
+- Clean Code
+- UI/UX Design
